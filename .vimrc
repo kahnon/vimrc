@@ -18,7 +18,7 @@ Plugin 'octol/vim-cpp-enhanced-highlight' "up-to-date cpp highlighting
 Plugin 'ervandew/supertab' "enhanced tab usage
 Plugin 'morhetz/gruvbox' "colorscheme
 Plugin 'jiangmiao/auto-pairs' "auto-close braces etc
-Plugin 'realincubus/vim-snippets' "Stefans snippets
+Plugin 'kahnon/vim-snippets' "Stefans snippets
 
 "unused for now
 "Plugn 'Valloric/YouCompleteMe' "do-all programming plugin, complicated installation
